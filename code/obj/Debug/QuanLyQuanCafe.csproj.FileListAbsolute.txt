@@ -1,0 +1,70 @@
+D:\Yến Linh\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\Yến Linh\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\Yến Linh\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\Yến Linh\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+D:\Yến Linh\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+D:\Yến Linh\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\Yến Linh\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\Yến Linh\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\Yến Linh\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\Yến Linh\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\Yến Linh\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+D:\Yến Linh\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+D:\Yến Linh\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+D:\Yến Linh\Niên luận cơ sở\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\Yến Linh\Niên luận cơ sở\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\Yến Linh\Niên luận cơ sở\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\Yến Linh\Niên luận cơ sở\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+D:\Yến Linh\Niên luận cơ sở\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+D:\Yến Linh\Niên luận cơ sở\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+D:\Yến Linh\Niên luận cơ sở\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+D:\Yến Linh\Niên luận cơ sở\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+D:\Yến Linh\Niên luận cơ sở\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\Yến Linh\Niên luận cơ sở\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\Yến Linh\Niên luận cơ sở\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\Yến Linh\Niên luận cơ sở\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\Yến Linh\Niên luận cơ sở\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\Yến Linh\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\Yến Linh\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\Yến Linh\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\Yến Linh\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+D:\Yến Linh\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+D:\Yến Linh\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+D:\Yến Linh\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+D:\Yến Linh\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+D:\Yến Linh\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\Yến Linh\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\Yến Linh\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\Yến Linh\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\Yến Linh\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\YL\Niên luận cơ sở-mới 1\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\YL\Niên luận cơ sở-mới 1\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\YL\Niên luận cơ sở-mới 1\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\YL\Niên luận cơ sở-mới 1\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+D:\YL\Niên luận cơ sở-mới 1\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+D:\YL\Niên luận cơ sở-mới 1\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+D:\YL\Niên luận cơ sở-mới 1\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+D:\YL\Niên luận cơ sở-mới 1\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+D:\YL\Niên luận cơ sở-mới 1\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\YL\Niên luận cơ sở-mới 1\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\YL\Niên luận cơ sở-mới 1\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\YL\Niên luận cơ sở-mới 1\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\YL\Niên luận cơ sở-mới 1\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\YL\LTUD\Niên luận cơ sở-mới 1\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\YL\LTUD\Niên luận cơ sở-mới 1\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\YL\LTUD\Niên luận cơ sở-mới 1\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\YL\LTUD\Niên luận cơ sở-mới 1\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+D:\YL\LTUD\Niên luận cơ sở-mới 1\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+D:\YL\LTUD\Niên luận cơ sở-mới 1\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+D:\YL\LTUD\Niên luận cơ sở-mới 1\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+D:\YL\LTUD\Niên luận cơ sở-mới 1\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+D:\YL\LTUD\Niên luận cơ sở-mới 1\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\YL\LTUD\Niên luận cơ sở-mới 1\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\YL\LTUD\Niên luận cơ sở-mới 1\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\YL\LTUD\Niên luận cơ sở-mới 1\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\YL\LTUD\Niên luận cơ sở-mới 1\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\YL\LTUD\Niên luận cơ sở-mới 1\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\MetroFramework.Design.dll
+D:\YL\LTUD\Niên luận cơ sở-mới 1\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\MetroFramework.dll
+D:\YL\LTUD\Niên luận cơ sở-mới 1\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\MetroFramework.Fonts.dll
+D:\YL\LTUD\Niên luận cơ sở-mới 1\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CopyComplete
+D:\YL\LTUD\Niên luận cơ sở-mới 1\Niên luận cơ sở-mới 1\Niên luận cơ sở\QLCaphe\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fBill.resources
